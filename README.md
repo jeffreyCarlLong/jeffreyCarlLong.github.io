@@ -1,5 +1,3 @@
-# jeffreyCarlLong.github.io
+## Research Software Engineer
 
-## Jeffrey Long
-
-This will host my Teal App
+Developing Teal Apps for interactive data analysis.
