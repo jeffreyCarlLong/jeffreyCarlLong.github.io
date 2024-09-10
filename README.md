@@ -3,3 +3,7 @@
 Developing Teal Apps for interactive data analysis.
 
 `{r} webr::install("teal")`
+
+```{r}
+install.packages("shinylive")
+```
