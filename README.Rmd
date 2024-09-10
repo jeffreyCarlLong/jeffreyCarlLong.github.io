@@ -1,7 +1,5 @@
-# Oncology Data Strategy
+# jeffreyCarlLong.github.io
 
 ## Jeffrey Long
 
-```{r}
-library(teal)
-```
+This will host my Teal App
